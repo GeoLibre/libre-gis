@@ -1,0 +1,158 @@
+1. Introduction:
+
+    1. Open Standards 
+    2. Open Source 
+    3. Open Books 
+    4. Open Data 
+
+2. Coordinate Reference System
+
+    1. Datum 
+    2. Projection 
+
+3. Geospatial Data
+
+    1 Geospatial Data Basics 
+    1. Geospatial Data Formats
+
+        1. Raster Data 
+        2. Vector Data 
+        3. Attribute Data 
+        4. Documenting Geospatial Data. The Metadata 
+
+    2. Geospatial Data Collection
+
+        1. Aerial Photography and Remote Sensing
+
+            1. Instruments 
+            2. Photogrammetry Basics 
+            3. Remote Sensing Basics 
+
+        2. GPS
+
+                1. How the GPS System Works 
+
+            2. GPS Receiver Types
+
+                1. Recreational 
+                2. GIS 
+                3. Survey 
+
+        3. Traditional Surveying
+
+            1. Surveying Basics 
+            2. Surveying Instruments and Equipment
+
+                1. Surveying Instruments
+
+                    1. Total Stations 
+                    2. Levels 
+                    3. GPS Receivers 
+                    4. Laser Scanners 
+                    5. Hydrographic Surveying Instruments 
+                    6: Other Surveying Equipment 
+
+            3. Types Of Traditional Surveys
+
+                1. Control Surveys 
+                2. Topographic Surveys 
+                3. Hydrographic Surveys 
+                4. Construction Surveys 
+
+            4.Processing Survey Data 
+
+        4. Utilizing Existing Data
+
+            1. Using Existing Hardcopy Data
+
+                1. Scanning 
+                2. Vectorization 
+
+            2. Using Digital Data 
+
+        5. A System Geospatial Data Collection
+
+            1. Planning 
+            2. Record Keeping During Data Collection 
+
+Discovering Data. Clearinghose systems and Protocol z 39.50
+4. Web Map Service
+
+    1. What is the WMS protocol 
+    2. Example sites/services using WMS 
+    3. HOWTO - request a simple map by hand 
+    4. [Open Source Clients]?
+
+        1. Client side only solutsions (javascript) 
+        2. Server side supported clients (PHP, JSP...) 
+
+    5. Walkthough - a simple map portal 
+    6. Open Source Servers 
+    7. Simple Maps 
+    8. SLD 
+    9. Complex maps 
+
+5. Web Feature Servers 6. Web Coverage Servers 7. Catalogues (ed: markus) 8. Client applications (here or before WMS?) ed: M Gould
+
+    1. light clients 
+    2. heav(ier) clients 
+
+9. Image Enhancement
+
+    1. Statistical Overview 
+    2. Histograms 
+    3. Constrast Stretching
+
+        1. Linear Stretching 
+        2. Non-linear Stretching 
+
+    4. Spatial Filtering
+
+        1. Convolution Filter 
+        2. Fourier Transform 
+
+10. Spectral Indices 11. Image classification 12. Geostatistics
+
+    1. Descriptive Statistics
+
+        2. Interpolation
+
+            1. Inverse distance weighted 
+            2. Spline
+
+                3. Kriging 
+                4. Cokriging 
+
+            3. Display
+
+                1. Contour 
+
+13. Network analysis
+
+    1. Free Software For Network Analysis 
+    2. Topology 
+    3. Shortest Path 
+    4. Traveling salesman 
+
+14. Terrain Analysis (was Digital Elevation Model) ed: ajolma
+
+    1. Free Software For Terrain Analysis 
+    2. Visualization Of Terrain 
+    3. [Primary Topographic Attributes]? (was Slope) 
+    4. Orientation (merge into the above?) 
+    5. Hillshading 
+
+15. Models and Modeling (was Model)
+
+    1. Catchment hydrology (was Watershed) ed: ajolma 
+    2. Erosion 
+    3. Wildfire Spread 
+    4. Computer-aided dispatch 
+    5. Multi-criteria Evaluation 
+
+16. Automated Mapping
+
+    1. Auto-Labeling 
+    2. Projection Shift 
+
+Glossary Appendix 1: Abbreviations Appednix 2: List of Graphics Appendix 3: Answers To Review Questions 

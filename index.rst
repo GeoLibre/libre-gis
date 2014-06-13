@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-    open-standards
+    open_standards
 
 Indices and tables
 ==================

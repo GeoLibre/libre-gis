@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Libre GIS Book's documentation!
-==========================================
+Welcome to the Libre GIS Book!
+==============================
 
 Contents:
 

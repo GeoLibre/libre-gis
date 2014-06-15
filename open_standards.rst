@@ -13,3 +13,9 @@ For some items there are competing standards. For example, power outlets vary in
 Geospatial Standards
 --------------------
 Standards typically are not developed in private, and should be the collaborative process of many parties. In the geospatial sector, the primary standards making body is the Open Geospatial Consortium (hereforth OGC). The OGC have develped standards for the structure, exchange, modification, and description of geospatial data.
+
+Web Standards
+-------------
+Before moving on, there is one more set of standards that are significant to our work. The Internet has become a crucial component in science and our culture. It allows knowledge sharing on an unprecedented scale.
+
+Early in the development of the World Wide Web, the need for a system of standards became aparent. Over the course of several years, the World Wide Web Consortium (W3C) was formed to develop and steward the standards making process. Many of the standards created by the W3C are relevant to Geospatial Information Science.

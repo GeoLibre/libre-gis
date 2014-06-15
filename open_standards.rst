@@ -18,4 +18,4 @@ Web Standards
 -------------
 Before moving on, there is one more set of standards that are significant to our work. The Internet has become a crucial component in science and our culture. It allows knowledge sharing on an unprecedented scale.
 
-Early in the development of the World Wide Web, the need became aparent for a system of information structure and display standards. Over the course of several years, the World Wide Web Consortium (W3C) was formed to develop and steward the standards making process. Many of the standards created by the W3C are relevant to Geospatial Information Science.
+Early in the development of the World Wide Web, the need became aparent for standard ways to describe and display information. Over the course of several years, the World Wide Web Consortium (W3C) was formed to develop and steward the standards making process. Many of the standards created by the W3C are relevant to Geospatial Information Science.
